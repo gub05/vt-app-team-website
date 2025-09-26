@@ -24,7 +24,7 @@ npm run dev
 ```
 ## How to Write Code
 
-### Each person gets their own page/component:
+### Each person gets their own page/component (this is where you write code based on the two files): 
 - **Homepage** → `src/pages/Home.jsx` + `src/pages/Home.css`
 - **About** → `src/pages/About.jsx` + `src/pages/About.css`
 - **Projects** → `src/pages/Projects.jsx` + `src/pages/Projects.css`
@@ -72,26 +72,34 @@ npm run dev
 
 ## Git Workflow (How to Save Your Work)
 
-### 1. Create your own branch
+### 1. Fork the repository
+- Go to the main repository on GitHub
+- Click the "Fork" button in the top right
+- This creates your own copy of the repository
+
+### 2. Clone your fork to your computer
 ```bash
-git checkout -b feature/homepage
-# or
-git checkout -b feature/navbar
+git clone https://github.com/YOUR_USERNAME/vt-app-team-website.git
+cd vt-app-team-website
 ```
 
-### 2. Make your changes
+### 3. Make your changes
 - Edit your files
 - Test that it works
 - Make sure it looks good
 
-### 3. Save your work
+### 4. Save your work
 ```bash
 git add .
 git commit -m "I added the homepage"
-git push origin feature/homepage
+git push origin main
 ```
 
-### 4. Ask someone to review
-- Create a Pull Request on GitHub
-- Once approved, merge it!
+### 5. Create a Pull Request
+- Go to your forked repository on GitHub
+- Click "New Pull Request"
+- Select your fork → main repository
+- Add a description of what you changed
+- Ask Liz or Tetra to review your code
+- Once approved, they'll merge it!
 
