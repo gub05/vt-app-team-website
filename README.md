@@ -1,6 +1,6 @@
 # VT App Club Website 
 
-Hey team! This is our website for the VT App Development Club. We're building it with React and it's going to be awesome!
+Hey team! This is our website for the VT App Development Club. We're building it with React.
 
 ## What We're Building
 - **Homepage** - Welcome people to our club
