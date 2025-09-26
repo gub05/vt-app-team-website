@@ -100,6 +100,6 @@ git push origin main
 - Click "New Pull Request"
 - Select your fork → main repository
 - Add a description of what you changed
-- Ask Liz or Tetra to review your code
+- Ask someone to review your code
 - Once approved, they'll merge it!
 
