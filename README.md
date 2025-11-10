@@ -1,7 +1,6 @@
 # 🌐 VT App Club Website
 
-Hey team! This is our website for the **VT App Development Club**.  
-We’re building it with **Next.js (a React framework)** 
+Hey team! This is our website for the VT App Development Club. We're building it with React.
 
 ---
 
