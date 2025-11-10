@@ -1,0 +1,7 @@
+[00:04:08.113] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/elizabethho/workspace/vt-app-team-website/vt-app-team-website/app'
+[00:04:08.119] Server  ERROR    ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/Users/elizabethho/workspace/vt-app-team-website/vt-app-team-website/app'
+[00:04:08.124] Server  ERROR    ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/Users/elizabethho/workspace/vt-app-team-website/vt-app-team-website/app'
+[00:04:09.140] Browser ERROR   uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization.
+[00:04:09.140] Browser ERROR   uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization.
+[00:04:09.140] Browser ERROR   uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization.
+[00:04:09.140] Browser ERROR   uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization.
